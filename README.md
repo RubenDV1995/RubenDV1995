@@ -42,6 +42,18 @@
 <img src="https://img.shields.io/badge/PlayStore-ff9?style=for-the-badge&logo=android&logoColor=black">
 </a>
   </p>Colaboración en el desarrollo de la aplicación <strong>Tigo Wallet</strong></p> <p>Con Tigo Money puedes realizar transacciones a la hora que quieras, en el lugar que quieras, con quien quieras y estés donde estés.</p>
-</div>                                                             
+</div> 
+
+<td width="50%">
+<h3 align="center">Control Remoto Universal TV | UniRemote</h3>
+<div align="center">                                       
+<img width=45% alt="UniRemote" src="https://play-lh.googleusercontent.com/OoTTx7fRx2fTOwLskKacTMa8B5tQfBPMMgRZWtwsRMVLhYKmimzr-YRoA5tM3G9i1j0=w2560-h1440-rw">
+    <img width=45% alt="UniRemote2" src="https://play-lh.googleusercontent.com/wX57qXZBprvSDvSk3Yl0THJa9pffe28irhmo4WDEP_vc7NGrbynd4FE_-AzaBJAqTMuI=w2560-h1440-rw">
+<a href="https://play.google.com/store/apps/details?id=com.rubendv.mi_control_remoto_universal" target="_blank">
+<img src="https://img.shields.io/badge/PlayStore-ff9?style=for-the-badge&logo=android&logoColor=black">
+</a>
+  </p>Desarrollo de la aplicación <strong>Control Remoto Universal TV | UniRemote</strong></p> <p>
+¿Te gustaría usar tu teléfono Android como un control remoto universal para tu TV que recibe comandos infrarrojos? Con UniRemote, puedes hacerlo fácilmente y gratis. Solo necesitas tener un teléfono con sensor de infrarrojos y elegir la marca y modelo de tu dispositivo en la app.</p>
+</div> 
 </table>                                                                                 
 
