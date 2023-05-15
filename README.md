@@ -43,7 +43,9 @@
 </a>
   </p>Colaboración en el desarrollo de la aplicación <strong>Tigo Wallet</strong></p> <p>Con Tigo Money puedes realizar transacciones a la hora que quieras, en el lugar que quieras, con quien quieras y estés donde estés.</p>
 </div> 
+</table>
 
+<table>
 <td width="50%">
 <h3 align="center">Control Remoto Universal TV | UniRemote</h3>
 <div align="center">                                       
@@ -55,5 +57,6 @@
   </p>Desarrollo de la aplicación <strong>Control Remoto Universal TV | UniRemote</strong></p> <p>
 ¿Te gustaría usar tu teléfono Android como un control remoto universal para tu TV que recibe comandos infrarrojos? Con UniRemote, puedes hacerlo fácilmente y gratis. Solo necesitas tener un teléfono con sensor de infrarrojos y elegir la marca y modelo de tu dispositivo en la app.</p>
 </div> 
+</td>
 </table>                                                                                 
 
