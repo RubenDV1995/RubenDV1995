@@ -76,7 +76,7 @@
 <table>
 <tr>
 <td width="32%">
-<h3 align="center">PRIXZ</h3>
+<h3 align="center">Blue Marine</h3>
 <div align="center">
 <img width=45% alt="Prixz" src="https://play-lh.googleusercontent.com/BlU6EOfvojFfiAYfGsGyfpx6OkZI9G81iuAOPQzy4Cvl42Bv09Shlz5nAlR4DzK9Z8M=w2560-h1440">
    <img width=45% alt="Prixz2" src="https://play-lh.googleusercontent.com/QHNlWL_9FINwfoN_xX6FshLDDw-TiCPdB0SJF_S2Jci8sVU5w_FJHgjuug0jAJoHww=w2560-h1440">
@@ -94,7 +94,7 @@
 
 <tr>
 <td width="32%">
-<h3 align="center">PRIXZ</h3>
+<h3 align="center">Souldier</h3>
 <div align="center">
 <img width=45% alt="Prixz" src="https://play-lh.googleusercontent.com/BlU6EOfvojFfiAYfGsGyfpx6OkZI9G81iuAOPQzy4Cvl42Bv09Shlz5nAlR4DzK9Z8M=w2560-h1440">
    <img width=45% alt="Prixz2" src="https://play-lh.googleusercontent.com/QHNlWL_9FINwfoN_xX6FshLDDw-TiCPdB0SJF_S2Jci8sVU5w_FJHgjuug0jAJoHww=w2560-h1440">
