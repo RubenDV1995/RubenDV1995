@@ -75,7 +75,7 @@
 ## Sitios
 <table>
 <tr>
-<td width="32%">
+<td width="30%">
 <h3 align="center">Blue Marine</h3>
 <div align="center">
 <img width=45% alt="Prixz" src="https://play-lh.googleusercontent.com/BlU6EOfvojFfiAYfGsGyfpx6OkZI9G81iuAOPQzy4Cvl42Bv09Shlz5nAlR4DzK9Z8M=w2560-h1440">
@@ -86,7 +86,7 @@
 </td>
 
 <tr>
-<td width="32%">
+<td width="30%">
 <h3 align="center">Souldier</h3>
 <div align="center">
 <img width=45% alt="Prixz" src="https://play-lh.googleusercontent.com/BlU6EOfvojFfiAYfGsGyfpx6OkZI9G81iuAOPQzy4Cvl42Bv09Shlz5nAlR4DzK9Z8M=w2560-h1440">
@@ -96,7 +96,7 @@
                                                                                       
 </td>
 
-<td width="32%">
+<td width="30%">
 <h3 align="center">TIGO WALLET</h3>
 <div align="center">                                       
 <img width=45% alt="TigoWallet" src="https://play-lh.googleusercontent.com/adHAf75xUrtXXlQOu6nERoFl9kFDthp1Lw_Fc_yYCNjwW15TKl2LYMTlfHmAMhTTUA=w2560-h1440">  
