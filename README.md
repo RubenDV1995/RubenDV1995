@@ -78,7 +78,7 @@
 <td width="30%">
 <h3 align="center">Blue Marine</h3>
 <div align="center">
-<img width=60% alt="Blue Marine" src="https://firebasestorage.googleapis.com/v0/b/baseproject-9b30f.appspot.com/o/github%2Fimages%2Fsities%2Fblue_marine.jpg?alt=media&token=599313b5-2c71-42a0-9ea6-c15b695eda53">
+<img width=100% alt="Blue Marine" src="https://firebasestorage.googleapis.com/v0/b/baseproject-9b30f.appspot.com/o/github%2Fimages%2Fsities%2Fblue_marine.jpg?alt=media&token=599313b5-2c71-42a0-9ea6-c15b695eda53">
 </p>
   <p>Colaboración en el desarrollo del sitio web <strong>Blue marine</strong></p>
 </div>
