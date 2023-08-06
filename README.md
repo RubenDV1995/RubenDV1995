@@ -104,20 +104,10 @@
 </div> 
 </table>
 
-<table>
-  <td width="30%">
-    <th>Company</th>
-    <th>Contact</th> 
-    <th>Country</th>
-  </td>
-  <td width="30%">
-    <td>Alfreds Futterkiste</td>
-    <td>Maria Anders</td> 
-    <td>Germany</td>
-  </td>
-  <td width="30%">
-    <td>Centro comercial Moctezuma</td>
-    <td>Francisco Chang</td> 
-    <td>Mexico</td>
-  </td>
+<table width="100%">
+  <tr>
+    <td>Emil</td>
+    <td>Tobias</td>
+    <td>Linus</td>
+  </tr>
 </table>
