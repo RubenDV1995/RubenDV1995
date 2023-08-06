@@ -72,7 +72,40 @@
 </td>
 </table>                                                                                 
 
-## Sitios
+## SITIOS
+<table>
+<tr>
+<td width="30%">
+<h3 align="center">Blue Marine</h3>
+<div align="center">
+<img width=100% alt="Blue Marine" src="https://firebasestorage.googleapis.com/v0/b/baseproject-9b30f.appspot.com/o/github%2Fimages%2Fsities%2Fblue_marine.jpg?alt=media&token=599313b5-2c71-42a0-9ea6-c15b695eda53">
+</p>
+  <p>Colaboración en el desarrollo del sitio web <strong>Blue marine</strong></p>
+</div>
+                                                                                      
+</td>
+
+<td width="30%">
+<h3 align="center">Souldier</h3>
+<div align="center">
+<img width=100% alt="Souldier" src="https://firebasestorage.googleapis.com/v0/b/baseproject-9b30f.appspot.com/o/github%2Fimages%2Fsities%2Fsouldier.jpg?alt=media&token=a0f47ef1-7a70-49cf-9513-f52909d0d01a">
+</p>
+  <p>Colaboración en el desarrollo del ecommerce <strong>Souldier</strong></p> 
+</div>
+                                                                                      
+</td>
+
+<td width="30%">
+<h3 align="center">Desayunistas</h3>
+<div align="center">                                       
+<img width=100% alt="Desayunistas" src="https://firebasestorage.googleapis.com/v0/b/baseproject-9b30f.appspot.com/o/github%2Fimages%2Fsities%2Fsitio.jpg?alt=media&token=b247e106-a825-4ec6-891f-cb0584a2143b">  
+</p>Colaboración en el desarrollo de la plataforma <strong>Desayunistas</strong></p> 
+</div>
+</td>
+</tr>
+</table>
+
+## VIDEOJUEGOS
 <table>
 <tr>
 <td width="30%">
