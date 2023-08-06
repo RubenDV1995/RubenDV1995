@@ -85,7 +85,6 @@
                                                                                       
 </td>
 
-<tr>
 <td width="30%">
 <h3 align="center">Souldier</h3>
 <div align="center">
@@ -101,7 +100,9 @@
 <div align="center">                                       
 <img width=30% alt="TigoWallet" src="https://play-lh.googleusercontent.com/adHAf75xUrtXXlQOu6nERoFl9kFDthp1Lw_Fc_yYCNjwW15TKl2LYMTlfHmAMhTTUA=w2560-h1440">  
 </p>Colaboración en el desarrollo de la aplicación <strong>Tigo Wallet</strong></p> <p>Con Tigo Money puedes realizar transacciones a la hora que quieras, en el lugar que quieras, con quien quieras y estés donde estés.</p>
-</div> 
+</div>
+</td>
+</tr>
 </table>
 
 <table width="100%">
