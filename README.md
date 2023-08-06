@@ -125,7 +125,6 @@
 
 ## VIDEOJUEGOS
 <table>
-<tr>
 <td width="30%">
 <h3 align="center">Rud</h3>
 <div align="center">
