@@ -105,17 +105,17 @@
 </table>
 
 <table>
-  <tr>
+  <tr width="30%">
     <th>Company</th>
     <th>Contact</th> 
     <th>Country</th>
   </tr>
-  <tr>
+  <tr width="30%">
     <td>Alfreds Futterkiste</td>
     <td>Maria Anders</td> 
     <td>Germany</td>
   </tr>
-  <tr>
+  <tr width="30%">
     <td>Centro comercial Moctezuma</td>
     <td>Francisco Chang</td> 
     <td>Mexico</td>
