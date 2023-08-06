@@ -77,7 +77,7 @@
 <div align="center">                                       
 <img width=100% alt="UniRemote" src="https://firebasestorage.googleapis.com/v0/b/baseproject-9b30f.appspot.com/o/github%2Fimages%2Fapps%2Fjugaya.jpg?alt=media&token=02d54357-3b4f-40ce-b260-bf98574924f6">
   </p>Desarrollo y venta de la aplicación <strong>jugáYa!</strong></p> <p>
-¿Te gustaría usar tu teléfono Android como un control remoto universal para tu TV que recibe comandos infrarrojos? Con UniRemote, puedes hacerlo fácilmente y gratis. Solo necesitas tener un teléfono con sensor de infrarrojos y elegir la marca y modelo de tu dispositivo en la app.</p>
+Descubre jugáYa! la forma más fácil de reservar canchas de fútbol. Encuentra, reserva y juega en minutos. ¡Descarga la app ahora y juega al fútbol cuando quieras!</p>
 </div> 
 </td>
 <td width="50%">
@@ -85,43 +85,10 @@
 <div align="center">                                       
 <img width=100% alt="UniRemote" src="https://firebasestorage.googleapis.com/v0/b/baseproject-9b30f.appspot.com/o/github%2Fimages%2Fapps%2Fmiwit.jpg?alt=media&token=4e028e20-86fb-4a53-900d-d5eb02f3c9aa">
   </p>Desarrollo y venta de la aplicación <strong>MiWitt</strong></p> <p>
-¿Te gustaría usar tu teléfono Android como un control remoto universal para tu TV que recibe comandos infrarrojos? Con UniRemote, puedes hacerlo fácilmente y gratis. Solo necesitas tener un teléfono con sensor de infrarrojos y elegir la marca y modelo de tu dispositivo en la app.</p>
+Con MiWitt, reserva talentos artísticos en segundos. Encuentra locutores, actores y cantantes ideales para tus proyectos. ¡Descarga ahora y da vida a tus ideas creativas! </p>
 </div> 
 </td>
 </table>         
-
-## SITIOS
-<table>
-<tr>
-<td width="30%">
-<h3 align="center">Blue Marine</h3>
-<div align="center">
-<img width=100% alt="Blue Marine" src="https://firebasestorage.googleapis.com/v0/b/baseproject-9b30f.appspot.com/o/github%2Fimages%2Fsities%2Fblue_marine.jpg?alt=media&token=599313b5-2c71-42a0-9ea6-c15b695eda53">
-</p>
-  <p>Colaboración en el desarrollo del sitio web <strong>Blue marine</strong></p>
-</div>
-                                                                                      
-</td>
-
-<td width="30%">
-<h3 align="center">Souldier</h3>
-<div align="center">
-<img width=100% alt="Souldier" src="https://firebasestorage.googleapis.com/v0/b/baseproject-9b30f.appspot.com/o/github%2Fimages%2Fsities%2Fsouldier.jpg?alt=media&token=a0f47ef1-7a70-49cf-9513-f52909d0d01a">
-</p>
-  <p>Colaboración en el desarrollo del ecommerce <strong>Souldier</strong></p> 
-</div>
-                                                                                      
-</td>
-
-<td width="30%">
-<h3 align="center">Desayunistas</h3>
-<div align="center">                                       
-<img width=100% alt="Desayunistas" src="https://firebasestorage.googleapis.com/v0/b/baseproject-9b30f.appspot.com/o/github%2Fimages%2Fsities%2Fsitio.jpg?alt=media&token=b247e106-a825-4ec6-891f-cb0584a2143b">  
-</p>Colaboración en el desarrollo de la plataforma <strong>Desayunistas</strong></p> 
-</div>
-</td>
-</tr>
-</table>
 
 ## VIDEOJUEGOS
 <table>
@@ -181,6 +148,39 @@
 <div align="center">                                       
 <img width=100% alt="Gotita" src="https://firebasestorage.googleapis.com/v0/b/baseproject-9b30f.appspot.com/o/github%2Fimages%2Fgames%2Fgotita.jpg?alt=media&token=e8419714-1daf-441e-a53b-628814cf2507">  
 </p>Desarrollo y venta de videojuego <strong>Gotita</strong></p> 
+</div>
+</td>
+</tr>
+</table>
+
+## SITIOS
+<table>
+<tr>
+<td width="30%">
+<h3 align="center">Blue Marine</h3>
+<div align="center">
+<img width=100% alt="Blue Marine" src="https://firebasestorage.googleapis.com/v0/b/baseproject-9b30f.appspot.com/o/github%2Fimages%2Fsities%2Fblue_marine.jpg?alt=media&token=599313b5-2c71-42a0-9ea6-c15b695eda53">
+</p>
+  <p>Colaboración en el desarrollo del sitio web <strong>Blue marine</strong></p>
+</div>
+                                                                                      
+</td>
+
+<td width="30%">
+<h3 align="center">Souldier</h3>
+<div align="center">
+<img width=100% alt="Souldier" src="https://firebasestorage.googleapis.com/v0/b/baseproject-9b30f.appspot.com/o/github%2Fimages%2Fsities%2Fsouldier.jpg?alt=media&token=a0f47ef1-7a70-49cf-9513-f52909d0d01a">
+</p>
+  <p>Colaboración en el desarrollo del ecommerce <strong>Souldier</strong></p> 
+</div>
+                                                                                      
+</td>
+
+<td width="30%">
+<h3 align="center">Desayunistas</h3>
+<div align="center">                                       
+<img width=100% alt="Desayunistas" src="https://firebasestorage.googleapis.com/v0/b/baseproject-9b30f.appspot.com/o/github%2Fimages%2Fsities%2Fsitio.jpg?alt=media&token=b247e106-a825-4ec6-891f-cb0584a2143b">  
+</p>Colaboración en el desarrollo de la plataforma <strong>Desayunistas</strong></p> 
 </div>
 </td>
 </tr>
