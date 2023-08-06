@@ -88,9 +88,9 @@
 <td width="30%">
 <h3 align="center">Souldier</h3>
 <div align="center">
-<img width=30% alt="Prixz" src="https://play-lh.googleusercontent.com/BlU6EOfvojFfiAYfGsGyfpx6OkZI9G81iuAOPQzy4Cvl42Bv09Shlz5nAlR4DzK9Z8M=w2560-h1440">
+<img width=100% alt="Souldier" src="https://firebasestorage.googleapis.com/v0/b/baseproject-9b30f.appspot.com/o/github%2Fimages%2Fsities%2Fsouldier.jpg?alt=media&token=a0f47ef1-7a70-49cf-9513-f52909d0d01a">
 </p>
-  <p>Colaboración en el desarrollo de la aplicación <strong>Prixz tu farmacia a domicilio</strong></p> <br> <p>Farmacia Prixz te lleva el medicamento que buscas hasta la puerta de tu casa. Obtén el mejor precio del mercado. </p>
+  <p>Colaboración en el desarrollo del ecommerce <strong>Souldier</strong></p> 
 </div>
                                                                                       
 </td>
