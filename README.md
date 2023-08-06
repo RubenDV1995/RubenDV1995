@@ -105,9 +105,7 @@
 </table>
 
 <table width="100%">
-  <tr>
     <td width="30%">Emil</td>
     <td width="30%">Tobias</td>
     <td width="30%">Linus</td>
-  </tr>
 </table>
