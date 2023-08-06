@@ -83,7 +83,7 @@
 <td width="50%">
 <h3 align="center">MiWitt</h3>
 <div align="center">                                       
-<img width=100% alt="UniRemote" src="https://firebasestorage.googleapis.com/v0/b/baseproject-9b30f.appspot.com/o/github%2Fimages%2Fapps%2Fmiwit.jpg?alt=media&token=be5fd325-f035-4f9b-ae3f-7cbe9796c133">
+<img width=100% alt="UniRemote" src="https://firebasestorage.googleapis.com/v0/b/baseproject-9b30f.appspot.com/o/github%2Fimages%2Fapps%2Fmiwit.jpg?alt=media&token=4e028e20-86fb-4a53-900d-d5eb02f3c9aa">
   </p>Desarrollo y venta de la aplicación <strong>MiWitt</strong></p> <p>
 ¿Te gustaría usar tu teléfono Android como un control remoto universal para tu TV que recibe comandos infrarrojos? Con UniRemote, puedes hacerlo fácilmente y gratis. Solo necesitas tener un teléfono con sensor de infrarrojos y elegir la marca y modelo de tu dispositivo en la app.</p>
 </div> 
