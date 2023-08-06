@@ -103,3 +103,21 @@
 </p>Colaboración en el desarrollo de la aplicación <strong>Tigo Wallet</strong></p> <p>Con Tigo Money puedes realizar transacciones a la hora que quieras, en el lugar que quieras, con quien quieras y estés donde estés.</p>
 </div> 
 </table>
+
+<table>
+  <tr>
+    <th>Company</th>
+    <th>Contact</th> 
+    <th>Country</th>
+  </tr>
+  <tr>
+    <td>Alfreds Futterkiste</td>
+    <td>Maria Anders</td> 
+    <td>Germany</td>
+  </tr>
+  <tr>
+    <td>Centro comercial Moctezuma</td>
+    <td>Francisco Chang</td> 
+    <td>Mexico</td>
+  </tr>
+</table>
