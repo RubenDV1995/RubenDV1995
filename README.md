@@ -106,8 +106,8 @@
 
 <table width="100%">
   <tr>
-    <td>Emil</td>
-    <td>Tobias</td>
-    <td>Linus</td>
+    <td width="30%">Emil</td>
+    <td width="30%">Tobias</td>
+    <td width="30%">Linus</td>
   </tr>
 </table>
