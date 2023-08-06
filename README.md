@@ -78,9 +78,9 @@
 <td width="30%">
 <h3 align="center">Blue Marine</h3>
 <div align="center">
-<img width=30% alt="Prixz" src="https://play-lh.googleusercontent.com/BlU6EOfvojFfiAYfGsGyfpx6OkZI9G81iuAOPQzy4Cvl42Bv09Shlz5nAlR4DzK9Z8M=w2560-h1440">
+<img width=30% alt="Blue Marine" src="[https://play-lh.googleusercontent.com/BlU6EOfvojFfiAYfGsGyfpx6OkZI9G81iuAOPQzy4Cvl42Bv09Shlz5nAlR4DzK9Z8M=w2560-h1440](https://firebasestorage.googleapis.com/v0/b/baseproject-9b30f.appspot.com/o/github%2Fimages%2Fsities%2Fblue_marine.jpg?alt=media&token=599313b5-2c71-42a0-9ea6-c15b695eda53)">
 </p>
-  <p>Colaboración en el desarrollo de la aplicación <strong>Prixz tu farmacia a domicilio</strong></p> <br> <p>Farmacia Prixz te lleva el medicamento que buscas hasta la puerta de tu casa. Obtén el mejor precio del mercado. </p>
+  <p>Colaboración en el desarrollo del sitio web <strong>Blue marine</strong></p>
 </div>
                                                                                       
 </td>
@@ -96,17 +96,11 @@
 </td>
 
 <td width="30%">
-<h3 align="center">TIGO WALLET</h3>
+<h3 align="center">Desayunistas</h3>
 <div align="center">                                       
 <img width=30% alt="TigoWallet" src="https://play-lh.googleusercontent.com/adHAf75xUrtXXlQOu6nERoFl9kFDthp1Lw_Fc_yYCNjwW15TKl2LYMTlfHmAMhTTUA=w2560-h1440">  
 </p>Colaboración en el desarrollo de la aplicación <strong>Tigo Wallet</strong></p> <p>Con Tigo Money puedes realizar transacciones a la hora que quieras, en el lugar que quieras, con quien quieras y estés donde estés.</p>
 </div>
 </td>
 </tr>
-</table>
-
-<table width="100%">
-    <td width="30%">Emil</td>
-    <td width="30%">Tobias</td>
-    <td width="30%">Linus</td>
 </table>
