@@ -127,30 +127,61 @@
 <table>
 <tr>
 <td width="30%">
-<h3 align="center">Blue Marine</h3>
+<h3 align="center">Rud</h3>
 <div align="center">
-<img width=100% alt="Blue Marine" src="https://firebasestorage.googleapis.com/v0/b/baseproject-9b30f.appspot.com/o/github%2Fimages%2Fsities%2Fblue_marine.jpg?alt=media&token=599313b5-2c71-42a0-9ea6-c15b695eda53">
+<img width=100% alt="Rud" src="https://firebasestorage.googleapis.com/v0/b/baseproject-9b30f.appspot.com/o/github%2Fimages%2Fgames%2Frud.jpg?alt=media&token=b148eb3b-547f-4185-bd57-a03fc007fec9">
 </p>
-  <p>Colaboración en el desarrollo del sitio web <strong>Blue marine</strong></p>
+  <p>Desarrollo y venta de videojuego <strong>Rud</strong></p>
 </div>
                                                                                       
 </td>
 
 <td width="30%">
-<h3 align="center">Souldier</h3>
+<h3 align="center">Star coalition</h3>
 <div align="center">
-<img width=100% alt="Souldier" src="https://firebasestorage.googleapis.com/v0/b/baseproject-9b30f.appspot.com/o/github%2Fimages%2Fsities%2Fsouldier.jpg?alt=media&token=a0f47ef1-7a70-49cf-9513-f52909d0d01a">
+<img width=100% alt="Star coalition" src="https://firebasestorage.googleapis.com/v0/b/baseproject-9b30f.appspot.com/o/github%2Fimages%2Fgames%2Fstar_coalition.jpg?alt=media&token=6140aa5a-86e0-4137-a440-b69242617aac">
 </p>
-  <p>Colaboración en el desarrollo del ecommerce <strong>Souldier</strong></p> 
+  <p>Desarrollo y venta de videojuego <strong>Star Coalition</strong></p> 
 </div>
                                                                                       
 </td>
 
 <td width="30%">
-<h3 align="center">Desayunistas</h3>
+<h3 align="center">Skin</h3>
 <div align="center">                                       
-<img width=100% alt="Desayunistas" src="https://firebasestorage.googleapis.com/v0/b/baseproject-9b30f.appspot.com/o/github%2Fimages%2Fsities%2Fsitio.jpg?alt=media&token=b247e106-a825-4ec6-891f-cb0584a2143b">  
-</p>Colaboración en el desarrollo de la plataforma <strong>Desayunistas</strong></p> 
+<img width=100% alt="Skin" src="https://firebasestorage.googleapis.com/v0/b/baseproject-9b30f.appspot.com/o/github%2Fimages%2Fgames%2Fskin.jpg?alt=media&token=b8cff004-afe7-4f43-9572-1749bf5042ac">  
+</p>Desarrollo y venta de videojuego <strong>Skin</strong></p> 
+</div>
+</td>
+</tr>
+</table>
+<table>
+<tr>
+<td width="30%">
+<h3 align="center">Don't move</h3>
+<div align="center">
+<img width=100% alt="Don't mov" src="https://firebasestorage.googleapis.com/v0/b/baseproject-9b30f.appspot.com/o/github%2Fimages%2Fgames%2Fterror.jpg?alt=media&token=7c89acdc-129e-4312-92fe-50e71514027b">
+</p>
+  <p>Desarrollo y venta de videojuego <strong>Don't move</strong></p>
+</div>
+                                                                                      
+</td>
+
+<td width="30%">
+<h3 align="center">Treebor</h3>
+<div align="center">
+<img width=100% alt="Treebor" src="https://firebasestorage.googleapis.com/v0/b/baseproject-9b30f.appspot.com/o/github%2Fimages%2Fgames%2Ftreebor.jpg?alt=media&token=4b33d03a-2758-4fef-9710-4a7b9f9eeab0">
+</p>
+  <p>Desarrollo y venta de videojuego <strong>Treebor</strong></p> 
+</div>
+                                                                                      
+</td>
+
+<td width="30%">
+<h3 align="center">Gotita</h3>
+<div align="center">                                       
+<img width=100% alt="Gotita" src="https://firebasestorage.googleapis.com/v0/b/baseproject-9b30f.appspot.com/o/github%2Fimages%2Fgames%2Fgotita.jpg?alt=media&token=e8419714-1daf-441e-a53b-628814cf2507">  
+</p>Desarrollo y venta de videojuego <strong>Gotita</strong></p> 
 </div>
 </td>
 </tr>
