@@ -61,13 +61,13 @@
 <td width="50%">
 <h3 align="center">Sereni</h3>
 <div align="center">                                       
-<img width=45% alt="UniRemote" src="https://play-lh.googleusercontent.com/OoTTx7fRx2fTOwLskKacTMa8B5tQfBPMMgRZWtwsRMVLhYKmimzr-YRoA5tM3G9i1j0=w2560-h1440-rw">
-    <img width=45% alt="UniRemote2" src="https://play-lh.googleusercontent.com/wX57qXZBprvSDvSk3Yl0THJa9pffe28irhmo4WDEP_vc7NGrbynd4FE_-AzaBJAqTMuI=w2560-h1440-rw">
-<a href="https://play.google.com/store/apps/details?id=com.rubendv.mi_control_remoto_universal" target="_blank">
+<img width=45% alt="Sereni1" src="https://play-lh.googleusercontent.com/VXczZKQf83xdF-Gd36nFCte97Us9Sj66KX6Y17icKS1Zhnfh8ZPDtTjll0HD90rbjAI=w5120-h2880-rw">
+    <img width=45% alt="UniRemote2" src="https://play-lh.googleusercontent.com/HXbRWl4zAtT8x1lQgM8f8C6ACmU8w-M5mjqf_U3DuoSSY8N1Y7PJ22lbBQJ9_A9QOGU=w5120-h2880-rw">
+<a href="https://play.google.com/store/apps/details?id=com.rubendv.sereni_sleep" target="_blank">
 <img src="https://img.shields.io/badge/PlayStore-ff9?style=for-the-badge&logo=android&logoColor=black">
 </a>
   </p>Desarrollo de la aplicación <strong>Sereni</strong></p> <p>
-¿Te gustaría usar tu teléfono Android como un control remoto universal para tu TV que recibe comandos infrarrojos? Con UniRemote, puedes hacerlo fácilmente y gratis. Solo necesitas tener un teléfono con sensor de infrarrojos y elegir la marca y modelo de tu dispositivo en la app.</p>
+Sereni, the definitive application for your restful sleep. With calming sounds and guided meditations, Sereni helps you fall asleep quickly, overcoming insomnia and stress. Its light therapy synchronizes your circadian rhythm, improving the quality of sleep and your daily well-being.</p>
 </div> 
 </td>
 </table> 
