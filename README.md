@@ -91,15 +91,8 @@ Con MiWitt, reserva talentos artísticos en segundos. Encuentra locutores, actor
 </table>   
 ## PRUEBAS
 <table>
-<td width="50%">
-<h3 align="center">Liverpool</h3>
-<div align="center">                                       
-<img width=45% alt="Liverpool1" src="https://raw.githubusercontent.com/RubenDV1995/liverpool/main/assets/screenshots/Screenshot_20230815_185650.png">
-<img width=45% alt="Liverpool2" src="https://raw.githubusercontent.com/RubenDV1995/liverpool/main/assets/screenshots/Screenshot_20230815_185700.png">
-  </p>Desarrollo de la prueba para <strong>Liverpool</strong></p>
-</div> 
 </td>
-<td width="50%">
+<td width="100%">
 <h3 align="center">MarvelApp</h3>
 <div align="center">                                      
 <img width=45% alt="MarvelApp1" src="https://raw.githubusercontent.com/RubenDV1995/maervel_app/main/assets/screenshots/Screenshot_20230828_132324.png">
