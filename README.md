@@ -88,7 +88,8 @@ Descubre jugáYa! la forma más fácil de reservar canchas de fútbol. Encuentra
 Con MiWitt, reserva talentos artísticos en segundos. Encuentra locutores, actores y cantantes ideales para tus proyectos. ¡Descarga ahora y da vida a tus ideas creativas! </p>
 </div> 
 </td>
-</table>   
+</table>  
+
 ## PRUEBAS
 <table>
 </td>
