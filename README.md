@@ -94,8 +94,8 @@ Con MiWitt, reserva talentos artísticos en segundos. Encuentra locutores, actor
 <td width="50%">
 <h3 align="center">Liverpool</h3>
 <div align="center">                                       
-<img width=100% alt="UniRemote" src="https://firebasestorage.googleapis.com/v0/b/baseproject-9b30f.appspot.com/o/github%2Fimages%2Fapps%2Fjugaya.jpg?alt=media&token=02d54357-3b4f-40ce-b260-bf98574924f6">
-  </p>Desarrollo y venta de la aplicación <strong>jugáYa!</strong></p> <p>
+<img width=100% alt="Liverpoll" src="https://raw.githubusercontent.com/RubenDV1995/liverpool/main/assets/screenshots/Screenshot_20230815_185650.png">
+  </p>Desarrollo de la prueba para <strong>Liverpool</strong></p> <p>
 Descubre jugáYa! la forma más fácil de reservar canchas de fútbol. Encuentra, reserva y juega en minutos. ¡Descarga la app ahora y juega al fútbol cuando quieras!</p>
 </div> 
 </td>
