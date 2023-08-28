@@ -88,7 +88,26 @@ Descubre jugáYa! la forma más fácil de reservar canchas de fútbol. Encuentra
 Con MiWitt, reserva talentos artísticos en segundos. Encuentra locutores, actores y cantantes ideales para tus proyectos. ¡Descarga ahora y da vida a tus ideas creativas! </p>
 </div> 
 </td>
-</table>         
+</table>   
+## PRUEBAS
+<table>
+<td width="50%">
+<h3 align="center">Liverpool</h3>
+<div align="center">                                       
+<img width=100% alt="UniRemote" src="https://firebasestorage.googleapis.com/v0/b/baseproject-9b30f.appspot.com/o/github%2Fimages%2Fapps%2Fjugaya.jpg?alt=media&token=02d54357-3b4f-40ce-b260-bf98574924f6">
+  </p>Desarrollo y venta de la aplicación <strong>jugáYa!</strong></p> <p>
+Descubre jugáYa! la forma más fácil de reservar canchas de fútbol. Encuentra, reserva y juega en minutos. ¡Descarga la app ahora y juega al fútbol cuando quieras!</p>
+</div> 
+</td>
+<td width="50%">
+<h3 align="center">MarvelApp</h3>
+<div align="center">                                       
+<img width=100% alt="UniRemote" src="https://firebasestorage.googleapis.com/v0/b/baseproject-9b30f.appspot.com/o/github%2Fimages%2Fapps%2Fmiwit.jpg?alt=media&token=4e028e20-86fb-4a53-900d-d5eb02f3c9aa">
+  </p>Desarrollo y venta de la aplicación <strong>MiWitt</strong></p> <p>
+Con MiWitt, reserva talentos artísticos en segundos. Encuentra locutores, actores y cantantes ideales para tus proyectos. ¡Descarga ahora y da vida a tus ideas creativas! </p>
+</div> 
+</td>
+</table>  
 
 ## VIDEOJUEGOS
 <table>
