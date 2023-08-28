@@ -94,17 +94,17 @@ Con MiWitt, reserva talentos artísticos en segundos. Encuentra locutores, actor
 <td width="50%">
 <h3 align="center">Liverpool</h3>
 <div align="center">                                       
-<img width=100% alt="Liverpoll" src="https://raw.githubusercontent.com/RubenDV1995/liverpool/main/assets/screenshots/Screenshot_20230815_185650.png">
-  </p>Desarrollo de la prueba para <strong>Liverpool</strong></p> <p>
-Descubre jugáYa! la forma más fácil de reservar canchas de fútbol. Encuentra, reserva y juega en minutos. ¡Descarga la app ahora y juega al fútbol cuando quieras!</p>
+<img width=45% alt="Liverpool1" src="https://raw.githubusercontent.com/RubenDV1995/liverpool/main/assets/screenshots/Screenshot_20230815_185650.png">
+<img width=45% alt="Liverpool2" src="https://raw.githubusercontent.com/RubenDV1995/liverpool/main/assets/screenshots/Screenshot_20230815_185700.png">
+  </p>Desarrollo de la prueba para <strong>Liverpool</strong></p>
 </div> 
 </td>
 <td width="50%">
 <h3 align="center">MarvelApp</h3>
-<div align="center">                                       
-<img width=100% alt="UniRemote" src="https://firebasestorage.googleapis.com/v0/b/baseproject-9b30f.appspot.com/o/github%2Fimages%2Fapps%2Fmiwit.jpg?alt=media&token=4e028e20-86fb-4a53-900d-d5eb02f3c9aa">
-  </p>Desarrollo y venta de la aplicación <strong>MiWitt</strong></p> <p>
-Con MiWitt, reserva talentos artísticos en segundos. Encuentra locutores, actores y cantantes ideales para tus proyectos. ¡Descarga ahora y da vida a tus ideas creativas! </p>
+<div align="center">                                      
+<img width=45% alt="MarvelApp1" src="https://raw.githubusercontent.com/RubenDV1995/maervel_app/main/assets/screenshots/Screenshot_20230828_132324.png">
+<img width=45% alt="MarvelApp2" src="https://raw.githubusercontent.com/RubenDV1995/maervel_app/main/assets/screenshots/Screenshot_20230828_132346.png">
+  </p>Desarrollo de la prueba con una app <strong>MarvelApp</strong></p>
 </div> 
 </td>
 </table>  
